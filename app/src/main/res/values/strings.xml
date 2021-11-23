@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CondeTestAssignment</string>
+    <string name="showing_image_from_server_side">showing image from server side.</string>
+    <string name="empty_list">no Data found</string>
+    <string name="an_error_occurred">An error occurred</string>
+    <string name="rajesh_yadav">Rajesh yadav</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="give_it_another_try">Give it another try</string>
+    <string name="reload">Reload</string>
+
+    <string name="error_text">An error occurred while loading Data.</string>
+    <string name="gender">Gender</string>
+    <string name="email">Email</string>
+    <string name="cell">Cell</string>
+    <string name="name">Name</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="profileimage">profileImage</string>
+</resources>
